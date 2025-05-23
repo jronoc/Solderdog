@@ -5,4 +5,6 @@ Materials
 2 LED's
 1 Push Button
 1 Battery Holder
-2Resistors
+2 Resistors
+
+Slack username @conor joyce
